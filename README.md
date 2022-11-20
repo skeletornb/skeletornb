@@ -1,6 +1,6 @@
 Hi, I am @skeletornb from Malta/Hungary
 
-I'm freelance automation technician & electrician. My specialization is intercoms, door/gate automatization, event automatization.
+I'm freelance automation technician & electrician. My specialization is electrical installation, intercoms, door/gate automation, event automation.
 
 I'm interested in PCB design, Python and embedded C.
 
